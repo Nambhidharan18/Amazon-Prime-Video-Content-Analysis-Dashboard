@@ -12,6 +12,12 @@ Genre Popularity Analysis, Regional Content Distribution, Content Growth Over Ti
 **Business Objective:** To transform raw Amazon Prime Video content metadata into interactive visual insights that help understand content distribution, growth trends, and strategic focus areas for OTT platforms.<br>
 
 ---
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
+
 
 ## 🚀 Introduction
 
