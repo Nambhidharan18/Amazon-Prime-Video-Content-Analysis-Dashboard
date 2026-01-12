@@ -27,7 +27,11 @@ The goal of this project is not only to replicate a dashboard, but to **understa
 
 📌 **Learning-focused project built by following an educational resource (credits provided in Resources section).**
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 🎯 Business Problem
 
@@ -38,13 +42,21 @@ OTT platforms like Amazon Prime Video manage thousands of titles across multiple
 * Analyze content growth trends over time
 * Target content effectively by age rating
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## ❓ Key Question
 
 **How can Amazon Prime Video’s content metadata be transformed into actionable insights using data visualization and interactive analytics?**
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 🧩 Project Scope
 
@@ -61,7 +73,11 @@ OTT platforms like Amazon Prime Video manage thousands of titles across multiple
 * Revenue or subscription analytics
 * Machine learning or recommendation systems
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 📂 Dataset Overview
 
@@ -93,7 +109,11 @@ This dataset contains detailed listings of all movies and TV shows available on 
 📎 **Source:** Kaggle
 🔗 [https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## ⚙️ Tools & Technologies
 
@@ -102,7 +122,11 @@ This dataset contains detailed listings of all movies and TV shows available on 
 * **Filters & Parameters:** Dropdown-based interactivity
 * **Excel / CSV:** Data cleaning and preprocessing
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 🧠 Methodology
 
@@ -111,7 +135,11 @@ This dataset contains detailed listings of all movies and TV shows available on 
 * Imported Amazon Prime Video dataset (CSV format) into Tableau
 * Connected an additional helper file (`Radial Bar chart values.txt`) for custom chart creation
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 2️⃣ Data Cleaning & Preparation
 
@@ -119,7 +147,11 @@ This dataset contains detailed listings of all movies and TV shows available on 
 * Standardized categorical fields such as Genre, Country, and Content Rating
 * Ensured consistency for accurate aggregation and visualization
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 3️⃣ Data Analysis
 
@@ -154,7 +186,11 @@ To create a **custom radial bar chart** for top content ratings:
 
 This approach enabled the creation of a visually appealing and informative **radial representation of rating distribution**.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 4️⃣ Data Visualization
 
@@ -162,7 +198,11 @@ This approach enabled the creation of a visually appealing and informative **rad
 * Implemented interactive filters for country, genre, year, rating, and content type
 * Built KPI-driven visuals to support business interpretation
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 🔍 Dashboard Features
 
@@ -179,7 +219,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 📌 Simulates a real-world OTT content exploration experience to try [click here](https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1).
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 📈 Key Visual Insights
 
@@ -190,7 +234,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 **Insight:** These two countries dominate Prime Video’s content library.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 🎭 Top 10 Genres
 
@@ -209,7 +257,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 **Insight:** Drama and Comedy-led genres form the core of Prime Video’s content strategy.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 🎬 Content Type Distribution
 
@@ -218,7 +270,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 **Insight:** Prime Video is movie-heavy, with steady growth in TV shows.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 📅 Content Growth by Release Year
 
@@ -230,7 +286,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 **Insight:** Aggressive content expansion in recent years.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ### 🔞 Content Rating Distribution
 
@@ -239,7 +299,11 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 **Insight:** The platform strongly targets teen and young adult audiences.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 📊 Key KPIs
 
@@ -250,7 +314,13 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 * Year-wise content growth
 * Rating-based audience targeting
 
----
+
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
+
 
 ## 🖼️ Screenshots
 
@@ -264,7 +334,12 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 * Title Dropdown Interaction
 
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
+
 
 ## 💡 Key Business Takeaways
 
@@ -273,14 +348,52 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 * Teen and young adult audiences are primary targets
 * Content production accelerated significantly post-2018
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 🏁 Conclusion
 
 This project demonstrates how **Tableau-powered analytics** can convert raw OTT platform data into meaningful business insights.
 It highlights skills in **data visualization, KPI design, calculated fields, and interactive dashboard development**, making it well-suited for **Data Analyst / Business Analyst** portfolios.
 
----
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
+
+## 📁 Folder Structure:
+
+```
+Amazon-Prime-Video-Content-Analysis-Dashboard/
+│
+├── Dashboard/
+│   └── Amazon Prime.twbx
+│
+├── Dataset/
+│   ├── amazon_prime_titles.csv
+│   └── Radial Bar chart values.txt
+│
+├── Image/
+│   ├── Dashboard.png
+│   ├── Prime video logo.png
+│   ├── Show by Release Year and Type.png
+│   ├── Shows by Type.png
+│   ├── Top 10 Genre.png
+│   ├── Total Ratings.png
+│   └── Total Show by Country.png
+│
+└── Readme.md
+```
+
+<p align="left">
+  <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 1200>
+  </a>
+</p>
 
 ## 📚 Resources & Credits
 
