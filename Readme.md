@@ -323,21 +323,47 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 
 ## 🖼️ Screenshots
+
+**Dashboard Overview**
+
 <p>
   <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
-  <img src="Image/Dashboard.png" width = "600" controls>
+  <img src="Image/Dashboard.png" width = "1000" >
   </a>
 </p>
 
 
-**Suggested Views:**
+**Genre Analysis View**
 
-* Dashboard Overview
-* Genre Analysis View
-* Country Map Visualization
-* Year-wise Content Growth
-* Title Dropdown Interaction
+<p>
+  <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
+  <img src="Image/Top 10 Genre.png" width = "600" >
+  </a>
+</p>
 
+**Country Map Visualization**
+
+<p>
+  <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
+  <img src="Image/Dashboard.png" width = "600" >
+  </a>
+</p>
+
+**Year-wise Content Growth**
+
+<p>
+  <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
+  <img src="Image/Dashboard.png" width = "600">
+  </a>
+</p>
+
+**Title Dropdown Interaction**
+
+<div align= "center">
+  <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
+  <img src="Image/Dashboard.png" width = "600" >
+  </a>
+</div>
 
 <p align="left">
   <a href= "https://www.linkedin.com/in/nambhidharan-s/" target="_blank">
