@@ -323,8 +323,13 @@ A dropdown filter allows users to select a specific title (e.g., *“2.0”*). U
 
 
 ## 🖼️ Screenshots
+<p>
+  <a href="https://public.tableau.com/app/profile/nambhidharan.s/viz/AmazonPrime_17672783550780/Dashboard1">
+  <img src="Image/Dashboard.png" width = "600" controls>
+  </a>
+</p>
 
-<video src= >
+
 **Suggested Views:**
 
 * Dashboard Overview
